@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     margin-block-start: 10px;
-    background-image: url('../111.jpg');
+    background-image: url('111.jpg');
     background-size: cover;
     background-position-y: -100px;
   
