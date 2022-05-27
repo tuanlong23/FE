@@ -184,7 +184,6 @@ button, input, optgroup, select, textarea {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 button {
     appearance: auto;
     writing-mode: horizontal-tb !important;
